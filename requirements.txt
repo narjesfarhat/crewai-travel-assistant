@@ -1,0 +1,16 @@
+# Requirements for CrewAI Exercises (2026)
+# Install with: pip install -r requirements.txt
+
+crewai>=1.9.0
+crewai-tools>=0.38.0
+pydantic>=2.0.0
+
+# ─── LLM Provider — choose ONE ───────────────────────────────────────────────
+# Option A: Google Gemini (recommended — free tier available)
+google-generativeai>=0.8.0
+
+# Option B: OpenAI (comment out if not using)
+# openai>=1.0.0
+
+# Option C: Anthropic Claude (comment out if not using)
+# anthropic>=0.40.0
