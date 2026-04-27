@@ -1,5 +1,5 @@
 ✈️ Travel CrewAI — Multi-Agent Travel Planner (Local Qwen Model)
-A fully local AI-powered travel planning assistant built with CrewAI 1.9, Python, and Ollama. This project uses a team of specialized AI agents to collaboratively create complete travel plans — including flights, hotels, itineraries, and travel advice — all without relying on cloud APIs or paid services.
+A fully local AI-powered travel planning assistant built with CrewAI 1.9, Python, and Ollama. This project uses a team of specialized AI agents to collaboratively create complete travel plans including flights, hotels, itineraries, and travel advice — all without relying on cloud APIs or paid services.
 Designed for developers, AI enthusiasts, and learners exploring multi-agent systems, this project demonstrates how autonomous agents can coordinate to solve real-world planning tasks entirely offline.
 
 🚀 Key Features
